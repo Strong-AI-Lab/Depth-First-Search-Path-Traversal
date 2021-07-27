@@ -1,5 +1,6 @@
 # Depth First Search Path Traversal
-
+## Target
+For the tree structure in the figure below, traverse and output the path from all leaf nodes to the root node.
 <img src="tree_structure.PNG" width="600" />
 
 # Acknowledgement
