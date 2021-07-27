@@ -5,6 +5,7 @@ For the tree structure in the figure below, traverse and output the path from al
 
 ## The process of traversal
 Given one example, starts from node e
+
     :param start:
             eg: 'e'
     :param child_father_dict:
