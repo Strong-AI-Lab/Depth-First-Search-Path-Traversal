@@ -1,3 +1,3 @@
-# Depth_First_Search_Path_Traversal
+# Depth First Search Path Traversal
 
 <img src="tree_structure.PNG" width="600" />
